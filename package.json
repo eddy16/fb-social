@@ -1,0 +1,28 @@
+{
+  "name": "fb-social",
+  "version": "1.0.0",
+  "description": "Example of Facebook API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddy16/fb-social.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "facebook",
+    "api"
+  ],
+  "author": "Edgar Cirilo <https://github.com/eddy16>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddy16/fb-social/issues"
+  },
+  "homepage": "https://github.com/eddy16/fb-social#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
